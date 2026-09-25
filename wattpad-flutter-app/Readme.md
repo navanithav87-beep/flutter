@@ -1,6 +1,3 @@
-Copy and paste this directly into **`README.md`**:
-
-````markdown
 # Wattpad-Inspired Flutter Application
 
 A Flutter-based storytelling application prototype developed to demonstrate modern mobile UI development, application navigation and interactive content experiences using Dart and Flutter.
@@ -79,22 +76,6 @@ Authentication
              ├── Edit Profile
              │
              └── Logout
-````
-
-## Project Structure
-
-```text
-wattpad-flutter-app/
-│
-├── main.dart
-├── README.md
-│
-└── assets/
-    ├── login.png
-    ├── home.png
-    └── profile.png
-```
-
 ## Getting Started
 
 ### Prerequisites
