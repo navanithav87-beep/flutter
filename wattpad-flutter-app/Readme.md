@@ -83,3 +83,21 @@ Authentication
              ├── Edit Profile
              │
              └── Logout
+
+Learning Objectives
+
+This project demonstrates practical experience with:
+
+Flutter application development
+Dart programming
+Widget-based UI development
+Stateful and stateless widgets
+Screen navigation
+Form and input interfaces
+Interactive UI components
+Responsive layout design
+Mobile application structure
+Author
+
+Navanitha V
+B.Tech Artificial Intelligence and Data Science
